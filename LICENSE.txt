@@ -1,0 +1,40 @@
+RECONQUISTA TD - CONDICIONES DE USO GRATUITO
+Version 1.0, 20 de octubre de 2026
+Copyright (c) 2026 javieratomic. Derechos reservados.
+
+1. Uso autorizado
+Se permite descargar, instalar y jugar gratuitamente a las versiones oficiales
+de Reconquista TD para uso personal y no comercial. Se permiten las copias de
+seguridad para ese uso y compartir el enlace a las descargas oficiales.
+Se permite compartir copias oficiales sin modificar, gratuitamente, conservando
+estas condiciones, los avisos de terceros y la identificacion de su autor.
+
+2. Modificaciones y obras derivadas
+Cualquier modificacion, adaptacion, traduccion, mod, version derivada o
+reutilizacion de los elementos propios del juego requiere autorizacion previa
+y escrita del titular, salvo los derechos que reconozca la legislacion aplicable.
+Estas condiciones no conceden acceso al codigo fuente ni una licencia sobre el.
+
+3. Monetizacion
+Se requiere autorizacion previa y escrita para vender, sublicenciar, alquilar,
+cobrar por el acceso, incorporar publicidad o compras, distribuir con fines
+comerciales o monetizar de otro modo el juego o sus elementos propios.
+La gratuidad de la descarga no autoriza la explotacion comercial.
+
+4. Solicitud de permiso
+Contacto del titular: javieratomic@gmail.com.
+La solicitud debe describir la modificacion o uso comercial propuesto.
+La ausencia de respuesta no constituye autorizacion.
+
+5. Componentes de terceros y derechos legales
+Godot Engine y los demas componentes de terceros conservan sus propias licencias,
+descritas en THIRD_PARTY_NOTICES.md. Estas condiciones no limitan los derechos
+concedidos directamente por esas licencias ni los derechos legales irrenunciables.
+Los nombres y referencias historicas no se reivindican como exclusivos.
+El juego se distribuye como software propietario gratuito, no como software libre
+ni de codigo abierto.
+
+6. Garantias
+El juego se proporciona tal cual, sin garantias adicionales en la medida permitida
+por la ley. Las versiones preliminares pueden contener errores. Esta clausula no
+excluye responsabilidades ni derechos que no puedan limitarse legalmente.
