@@ -127,6 +127,42 @@ Sprites originales del juego ampliados para apreciar sus armas, armaduras y silu
   </tr>
 </table>
 
+### Arquitectura de seis ciudades
+
+Interpretaciones artísticas de los enclaves del juego, con el periodo correspondiente a cada ciudad en la campaña.
+
+<table>
+  <tr>
+    <td align="center"><a href="media/art/landmark_oviedo.png"><img src="media/art/landmark_oviedo.png" width="240" alt="Oviedo"></a><br><strong>Oviedo</strong><br><sub>Proto-Oviedo asturiano &#183; Asturias altomedieval, reconstrucci&#243;n c. 718</sub></td>
+    <td align="center"><a href="media/art/landmark_toledo.png"><img src="media/art/landmark_toledo.png" width="240" alt="Toledo"></a><br><strong>Toledo</strong><br><sub>Medina de Tulaytula &#183; Taifa de Toledo, 1085</sub></td>
+    <td align="center"><a href="media/art/landmark_cordoba.png"><img src="media/art/landmark_cordoba.png" width="240" alt="C&#243;rdoba"></a><br><strong>C&#243;rdoba</strong><br><sub>Mezquita aljama de C&#243;rdoba &#183; Entrega de C&#243;rdoba, 1236</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="media/art/landmark_granada.png"><img src="media/art/landmark_granada.png" width="240" alt="Granada"></a><br><strong>Granada</strong><br><sub>Alhambra nazar&#237; &#183; Reino nazar&#237;, 1492</sub></td>
+    <td align="center"><a href="media/art/landmark_salamanca.png"><img src="media/art/landmark_salamanca.png" width="240" alt="Salamanca"></a><br><strong>Salamanca</strong><br><sub>Paso romano del Tormes &#183; Reocupaci&#243;n altomedieval, c. 1000</sub></td>
+    <td align="center"><a href="media/art/landmark_palma.png"><img src="media/art/landmark_palma.png" width="240" alt="Palma"></a><br><strong>Palma</strong><br><sub>Madina Mayurqa &#183; Fase almohade, 1229</sub></td>
+  </tr>
+</table>
+
+### Vida y paisaje de los biomas
+
+Vegetación, construcciones rurales y detalles que acompañan a las rutas y dan personalidad a los escenarios.
+
+<table>
+  <tr>
+    <td align="center"><a href="media/art/decor_pine.png"><img src="media/art/decor_pine.png" width="180" alt="Pinar"></a><br><strong>Pinar</strong></td>
+    <td align="center"><a href="media/art/decor_olive.png"><img src="media/art/decor_olive.png" width="180" alt="Olivos"></a><br><strong>Olivos</strong></td>
+    <td align="center"><a href="media/art/decor_palm.png"><img src="media/art/decor_palm.png" width="180" alt="Palmera"></a><br><strong>Palmera</strong></td>
+    <td align="center"><a href="media/art/decor_vineyard.png"><img src="media/art/decor_vineyard.png" width="180" alt="Vi&#241;edo"></a><br><strong>Vi&#241;edo</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="media/art/decor_windmill.png"><img src="media/art/decor_windmill.png" width="180" alt="Molino"></a><br><strong>Molino</strong></td>
+    <td align="center"><a href="media/art/decor_farmstead.png"><img src="media/art/decor_farmstead.png" width="180" alt="Caser&#237;o"></a><br><strong>Caser&#237;o</strong></td>
+    <td align="center"><a href="media/art/decor_boat.png"><img src="media/art/decor_boat.png" width="180" alt="Barco"></a><br><strong>Barco</strong></td>
+    <td align="center"><a href="media/art/decor_watchtower.png"><img src="media/art/decor_watchtower.png" width="180" alt="Atalaya"></a><br><strong>Atalaya</strong></td>
+  </tr>
+</table>
+
 <!-- END ART GALLERY -->
 
 ## Cómo empezar
