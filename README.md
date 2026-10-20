@@ -14,6 +14,12 @@ combina armas de asedio y dirige a tu héroe frente a oleadas cada vez más exig
 
 ## Descarga gratuita
 
+> **El código del juego es privado.** GitHub añade automáticamente enlaces
+> llamados «Source code (zip)» y «Source code (tar.gz)» a las releases. Esos
+> archivos contienen únicamente la documentación e imágenes de este repositorio
+> público, no el proyecto ni los scripts del juego. Para jugar, descarga el APK
+> de Android o el ZIP de Windows indicados a continuación.
+
 Primera beta pública: **0.1.0-beta.1**. El juego sigue en desarrollo.
 
 | Plataforma | Descarga | Instalación |

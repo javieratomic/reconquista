@@ -1,5 +1,11 @@
 # Reconquista TD 0.1.0-beta.1
 
+> **El código fuente del juego NO está publicado.** Los enlaces «Source code
+> (zip)» y «Source code (tar.gz)» los genera GitHub automáticamente y contienen
+> únicamente documentación e imágenes del repositorio público. No contienen
+> scripts ni el proyecto de Godot. Para jugar, utiliza el APK de Android o el ZIP
+> de Windows de esta publicación.
+
 Primera beta pública para **Android ARM64** y **Windows x64**.
 
 Campaña de 52 ciudades, héroes, siete torres, mejoras, desafíos, decretos,
