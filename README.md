@@ -49,7 +49,10 @@ El terreno, los cruces y las entradas importan. Las catapultas y los trabuquetes
 buscan grupos; las ballestas priorizan enemigos poderosos. Consulta la información
 enemiga y combina tus defensas para afrontar cada nivel.
 
-![Batalla en Huelva](media/battle.png)
+![Defensa de Santander: vista ampliada del puerto, la vegetación y las torres](media/battle.png)
+
+Vista ampliada de **Santander**, con su enclave costero, bosques, edificios de
+apoyo y defensas en combate.
 
 ### Consulta el códex
 
@@ -59,6 +62,66 @@ Revisa ciudades, torres, enemigos, héroes y terrenos para conocer sus caracter�
 
 Las imágenes son capturas del juego en ejecución. El aspecto y la distribución
 de la interfaz se adaptan al tamaño de pantalla.
+
+<!-- BEGIN ART GALLERY -->
+## El arte, de cerca
+
+Sprites originales del juego ampliados para apreciar sus armas, armaduras y siluetas. Pulsa sobre una imagen para abrirla por separado. Estas láminas muestran el arte estático; las unidades se animan durante la partida.
+
+### Héroes históricos
+
+<table>
+  <tr>
+    <td align="center"><a href="media/art/hero_pelayo.png"><img src="media/art/hero_pelayo.png" width="220" alt="Don Pelayo"></a><br><strong>Don Pelayo</strong></td>
+    <td align="center"><a href="media/art/hero_cid.png"><img src="media/art/hero_cid.png" width="220" alt="El Cid"></a><br><strong>El Cid</strong></td>
+    <td align="center"><a href="media/art/hero_alfonso.png"><img src="media/art/hero_alfonso.png" width="220" alt="Alfonso VI"></a><br><strong>Alfonso VI</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="media/art/hero_jaime.png"><img src="media/art/hero_jaime.png" width="220" alt="Jaime I"></a><br><strong>Jaime I</strong></td>
+    <td align="center"><a href="media/art/hero_isabel.png"><img src="media/art/hero_isabel.png" width="220" alt="Isabel la Cat&#243;lica"></a><br><strong>Isabel la Cat&#243;lica</strong></td>
+  </tr>
+</table>
+
+### Enemigos y jefes
+
+<table>
+  <tr>
+    <td align="center"><a href="media/art/enemy_normal.png"><img src="media/art/enemy_normal.png" width="180" alt="Infante"></a><br><strong>Infante</strong></td>
+    <td align="center"><a href="media/art/enemy_fast.png"><img src="media/art/enemy_fast.png" width="180" alt="Jinete"></a><br><strong>Jinete</strong></td>
+    <td align="center"><a href="media/art/enemy_tank.png"><img src="media/art/enemy_tank.png" width="180" alt="Blindado"></a><br><strong>Blindado</strong></td>
+    <td align="center"><a href="media/art/enemy_berber.png"><img src="media/art/enemy_berber.png" width="180" alt="Jinete bereber"></a><br><strong>Jinete bereber</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="media/art/enemy_shield.png"><img src="media/art/enemy_shield.png" width="180" alt="Escudo de torre"></a><br><strong>Escudo de torre</strong></td>
+    <td align="center"><a href="media/art/enemy_healer.png"><img src="media/art/enemy_healer.png" width="180" alt="Ingeniero"></a><br><strong>Ingeniero</strong></td>
+    <td align="center"><a href="media/art/enemy_elephant.png"><img src="media/art/enemy_elephant.png" width="180" alt="Elefante"></a><br><strong>Elefante</strong></td>
+    <td align="center"><a href="media/art/enemy_assassin.png"><img src="media/art/enemy_assassin.png" width="180" alt="Asesino nazar&#237;"></a><br><strong>Asesino nazar&#237;</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="media/art/boss_toledo.png"><img src="media/art/boss_toledo.png" width="180" alt="Se&#241;or de Toledo"></a><br><strong>Se&#241;or de Toledo</strong></td>
+    <td align="center"><a href="media/art/boss_zaragoza.png"><img src="media/art/boss_zaragoza.png" width="180" alt="Guardi&#225;n del Ebro"></a><br><strong>Guardi&#225;n del Ebro</strong></td>
+    <td align="center"><a href="media/art/boss_cordoba.png"><img src="media/art/boss_cordoba.png" width="180" alt="Wali de C&#243;rdoba"></a><br><strong>Wali de C&#243;rdoba</strong></td>
+    <td align="center"><a href="media/art/boss_granada.png"><img src="media/art/boss_granada.png" width="180" alt="Emir de Granada"></a><br><strong>Emir de Granada</strong></td>
+  </tr>
+</table>
+
+### Torres y máquinas de asedio
+
+<table>
+  <tr>
+    <td align="center"><a href="media/art/tower_archer.png"><img src="media/art/tower_archer.png" width="180" alt="Arquera"></a><br><strong>Arquera</strong></td>
+    <td align="center"><a href="media/art/tower_heavy.png"><img src="media/art/tower_heavy.png" width="180" alt="Ballesta"></a><br><strong>Ballesta</strong></td>
+    <td align="center"><a href="media/art/tower_cannon.png"><img src="media/art/tower_cannon.png" width="180" alt="Catapulta"></a><br><strong>Catapulta</strong></td>
+    <td align="center"><a href="media/art/tower_crossbow_heavy.png"><img src="media/art/tower_crossbow_heavy.png" width="180" alt="Ballesta Pesada"></a><br><strong>Ballesta Pesada</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="media/art/tower_trebuchet.png"><img src="media/art/tower_trebuchet.png" width="180" alt="Trabuquete"></a><br><strong>Trabuquete</strong></td>
+    <td align="center"><a href="media/art/tower_gunpowder.png"><img src="media/art/tower_gunpowder.png" width="180" alt="Artiller&#237;a de P&#243;lvora"></a><br><strong>Artiller&#237;a de P&#243;lvora</strong></td>
+    <td align="center"><a href="media/art/tower_royal_cannon.png"><img src="media/art/tower_royal_cannon.png" width="180" alt="Ca&#241;&#243;n Real"></a><br><strong>Ca&#241;&#243;n Real</strong></td>
+  </tr>
+</table>
+
+<!-- END ART GALLERY -->
 
 ## Cómo empezar
 
