@@ -20,15 +20,22 @@ combina armas de asedio y dirige a tu héroe frente a oleadas cada vez más exig
 > público, no el proyecto ni los scripts del juego. Para jugar, descarga el APK
 > de Android o el ZIP de Windows indicados a continuación.
 
-Primera beta pública: **0.1.0-beta.1**. El juego sigue en desarrollo.
+Beta pública actual: **0.1.0-beta.2**. El juego sigue en desarrollo.
 
 | Plataforma | Descarga | Instalación |
 | --- | --- | --- |
-| Android 7.0 o posterior, ARM64 | [Descargar APK](https://github.com/javieratomic/reconquista/releases/download/v0.1.0-beta.1/reconquista-0.1.0-beta.1-android-arm64.apk) | Instala el APK en tu teléfono. |
-| Windows 10/11 de 64 bits | [Descargar ZIP portable](https://github.com/javieratomic/reconquista/releases/download/v0.1.0-beta.1/reconquista-0.1.0-beta.1-windows-x64.zip) | Extrae la carpeta completa y ejecuta `Reconquista.exe`. |
+| Android 7.0 o posterior, ARM64 | [Descargar APK](https://github.com/javieratomic/reconquista/releases/download/v0.1.0-beta.2/reconquista-0.1.0-beta.2-android-arm64.apk) | Instala el APK en tu teléfono. |
+| Windows 10/11 de 64 bits | [Descargar ZIP portable](https://github.com/javieratomic/reconquista/releases/download/v0.1.0-beta.2/reconquista-0.1.0-beta.2-windows-x64.zip) | Extrae la carpeta completa y ejecuta `Reconquista.exe`. |
 
 [Todas las versiones y notas de publicación](https://github.com/javieratomic/reconquista/releases)
-· [Comprobaciones SHA-256](https://github.com/javieratomic/reconquista/releases/download/v0.1.0-beta.1/SHA256SUMS.txt)
+· [Comprobaciones SHA-256](https://github.com/javieratomic/reconquista/releases/download/v0.1.0-beta.2/SHA256SUMS.txt)
+· [Changelog](CHANGELOG.md)
+
+**Novedades de esta beta:** texto mayor y paneles adaptados en Android, información
+enemiga desplazable y variaciones del terreno más suaves, sin los círculos claros
+de borde duro. Los valores de combate y las recompensas se mantienen.
+
+![Menú móvil con texto ampliado](media/menu-mobile.png)
 
 ## Qué encontrarás
 
@@ -205,7 +212,8 @@ código abierto.
 
 [Condiciones completas](LICENSE.txt) · [Avisos de terceros](THIRD_PARTY_NOTICES.md)
 
-Para solicitar permisos: **[javieratomic@gmail.com](mailto:javieratomic@gmail.com)**.
+Para solicitar permisos: **[Twitter/X @jatomic007](https://twitter.com/jatomic007)**
+o **[abre una issue](https://github.com/javieratomic/reconquista/issues/new?title=Solicitud%20de%20permiso)**.
 Describe qué deseas modificar o cómo deseas monetizarlo.
 
 ## Errores y sugerencias

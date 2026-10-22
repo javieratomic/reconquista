@@ -1,5 +1,5 @@
 RECONQUISTA TD - CONDICIONES DE USO GRATUITO
-Version 1.0, 20 de octubre de 2026
+Version 1.1, 22 de octubre de 2026
 Copyright (c) 2026 javieratomic. Derechos reservados.
 
 1. Uso autorizado
@@ -22,7 +22,8 @@ comerciales o monetizar de otro modo el juego o sus elementos propios.
 La gratuidad de la descarga no autoriza la explotacion comercial.
 
 4. Solicitud de permiso
-Contacto del titular: javieratomic@gmail.com.
+Solicitar permiso por Twitter/X: @jatomic007 (https://twitter.com/jatomic007),
+o abriendo una issue: https://github.com/javieratomic/reconquista/issues.
 La solicitud debe describir la modificacion o uso comercial propuesto.
 La ausencia de respuesta no constituye autorizacion.
 

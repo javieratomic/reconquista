@@ -1,4 +1,4 @@
-# Reconquista TD 0.1.0-beta.1
+# Reconquista TD 0.1.0-beta.2
 
 ## Windows
 
@@ -17,6 +17,9 @@ Si ya tienes una build privada de pruebas con una partida, NO LA DESINSTALES.
 La clave de publicación es diferente y Android no permite actualizarla directamente.
 Contacta antes con el autor para conservar tu progreso.
 
+Si instalaste la beta pública anterior, instala este APK como actualización sin
+desinstalarla: mantiene el mismo paquete y la misma firma de publicación.
+
 ## Empezar a jugar
 
 Entra en Campaña y comienza en Oviedo. El tutorial presenta las herramientas de
@@ -31,6 +34,7 @@ Conserva una copia de esa carpeta antes de cambiar de equipo o probar nuevas ver
 
 Descargas: https://github.com/javieratomic/reconquista/releases
 Errores: https://github.com/javieratomic/reconquista/issues
-Permisos de modificación o monetización: javieratomic@gmail.com.
+Permisos de modificación o monetización: Twitter/X @jatomic007
+(https://twitter.com/jatomic007) o https://github.com/javieratomic/reconquista/issues.
 
 Jugar es gratuito. Las condiciones completas se incluyen en `LICENSE.txt`.
